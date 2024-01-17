@@ -4,8 +4,8 @@
  */
 
 /**
- *
- * @author supre
+ *Commenting for the modification on jan 17th at 9:48 AM
+ * @author Harsimran Singh
  */
 public class student {
     private int sId;
