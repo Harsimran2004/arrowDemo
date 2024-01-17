@@ -13,6 +13,7 @@ public class studentList {
         student s1 = new student(1,"arsh");
         student[] studentList = new student[3];
         studentList[0] = s1;
+        System.out.println("Third commit");
         studentList[0] = new student(2,"abd");
         studentList[0] = new student(3,"bds");
         
