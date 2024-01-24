@@ -10,7 +10,21 @@
 public class student {
     private int sId;
     private String Sname;
+    private String Address;
 
+    public student(int sId, String Sname, String Address) {
+        this.sId = sId;
+        this.Sname = Sname;
+        this.Address = Address;
+    }
+
+    public String getAddress() {
+        return Address;
+    }
+
+    public void setAddress(String Address) {
+        this.Address = Address;
+    }
     public int getsId() {
         return sId;
     }
