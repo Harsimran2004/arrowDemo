@@ -5,7 +5,7 @@
 
 /**
  *
- * @author supre
+ * @author 
  */
 public class student {
     private int sId;
